@@ -1,0 +1,25 @@
+span {
+    margin-left: 10px;
+}
+.bluePart {
+    background-color: #2574a9;
+}
+.purplePart {
+    background-color: #9a12b3;
+}
+.pinkPart {
+    background-color: #db0a5b;
+}
+div {
+    padding: 10px;
+    border-left: solid #a6a9ac;
+    border-top: solid #a6a9ac;
+    border-bottom: solid white;
+}
+#adress {
+    width: 120px;
+    height: 80px;
+}
+legend {
+    margin-bottom: -10px;
+}
